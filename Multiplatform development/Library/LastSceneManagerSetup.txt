@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/LowPoly Waterfall/LowPoly waterfall.unity
+  isLoaded: 1
+  isActive: 1
